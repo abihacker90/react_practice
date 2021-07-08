@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <div className="form">
-     <Button text="Send" />
+     <Button text="Hello New Branch" />
     </div>
     <div className="form2">
       <Button text="Send2" />
